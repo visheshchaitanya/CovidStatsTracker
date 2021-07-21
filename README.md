@@ -7,4 +7,4 @@
 
 -> Displays to new cases,recovered ones and new deaths by fetching data from covid API. 
 
--> 
+ 
