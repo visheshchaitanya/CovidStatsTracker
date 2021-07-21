@@ -5,6 +5,6 @@
 
 -> Uses Chart.js to display the graph between total cases,recovered cases and total deaths.
 
--> Displays to new cases,recovered ones and new deaths by fetching data from covid API. 
+-> Displays new cases,recovered ones and new deaths by fetching data from covid API. 
 
  
