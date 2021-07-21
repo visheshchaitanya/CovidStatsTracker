@@ -1,4 +1,10 @@
 # CovidStatsTracker
 
-![image](https://user-images.githubusercontent.com/82875466/126436045-d8a76e85-214e-4169-ae32-f6621d7e0d06.png)
+![Untitled](https://user-images.githubusercontent.com/82875466/126436159-4c3dca3e-c212-4915-9282-aa26dc8d7823.png)
 
+
+-> Uses Chart.js to display the graph between total cases,recovered cases and total deaths.
+
+-> Displays to new cases,recovered ones and new deaths by fetching data from covid API. 
+
+-> 
